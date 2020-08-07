@@ -9,8 +9,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="282dp"
-        android:layout_height="75dp"
+        android:layout_width="315dp"
+        android:layout_height="59dp"
         android:text="@string/app_title"
         android:textColor="#EFE4E4"
         android:textSize="55sp"
@@ -20,7 +20,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.223" />
+        app:layout_constraintVertical_bias="0.065" />
 
     <Button
         android:id="@+id/button"
